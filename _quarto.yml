@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Projects.qmd
+      - about.qmd
 
   page-footer:
     right: "© Copyright 2024 Evelyn Ng."
