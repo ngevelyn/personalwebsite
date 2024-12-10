@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Title\n\n\n\n\n\n\nProject 1\n\n\n\n\nProject 2\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,61 @@
     "title": "Evelyn Ng",
     "section": "Experience",
     "text": "Experience\nRedotPay | Intern | July 2024 - Sept 2024\nDash Map | Data Analyst | June 2023 - Aug 2023\nUniversity of Hong Kong | Research Intern | June 2022 - Aug 2022"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "This project is about understanding the factors that impact student performance. I analyzed data on study hours, past scores, extracurricular activities, and sleep patterns to see how they affect to academic success."
+  },
+  {
+    "objectID": "projects/project1.html#overview",
+    "href": "projects/project1.html#overview",
+    "title": "Project 1",
+    "section": "",
+    "text": "This project is about understanding the factors that impact student performance. I analyzed data on study hours, past scores, extracurricular activities, and sleep patterns to see how they affect to academic success."
+  },
+  {
+    "objectID": "projects/project1.html#methodology",
+    "href": "projects/project1.html#methodology",
+    "title": "Project 1",
+    "section": "Methodology",
+    "text": "Methodology\nUsed multiple linear regression to develop a predictive model that highlights the key variables affecting academic performance."
+  },
+  {
+    "objectID": "projects/project1.html#download",
+    "href": "projects/project1.html#download",
+    "title": "Project 1",
+    "section": "Download",
+    "text": "Download\nFOR DETAILED PROJECT CLICK Project 1"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "This project explores how alcohol consumption, exercise, and music type affect reaction times in a virtual population known as “the Islanders.” We focus on these factors because alcohol can impair cognitive function, while exercise is known to enhance it. Additionally, different genres of music may influence mood and performance. Our goal is to understand how these elements interact and their overall impact on reaction times."
+  },
+  {
+    "objectID": "projects/project2.html#overview",
+    "href": "projects/project2.html#overview",
+    "title": "Project 2",
+    "section": "",
+    "text": "This project explores how alcohol consumption, exercise, and music type affect reaction times in a virtual population known as “the Islanders.” We focus on these factors because alcohol can impair cognitive function, while exercise is known to enhance it. Additionally, different genres of music may influence mood and performance. Our goal is to understand how these elements interact and their overall impact on reaction times."
+  },
+  {
+    "objectID": "projects/project2.html#methodology",
+    "href": "projects/project2.html#methodology",
+    "title": "Project 2",
+    "section": "Methodology",
+    "text": "Methodology\nWe used a 2-factorial design to evaluate the effects of three factors: alcohol (no alcohol vs. 150ml vodka), exercise (no exercise vs. 1km run), and music (heavy metal vs. classical), each at two levels. Participants aged 20-40 were randomly assigned to one of eight treatment combinations, with baseline reaction times measured using a ruler test. After a 15-minute wait for the alcohol to take effect, we recorded changes in reaction times across all treatment combinations."
+  },
+  {
+    "objectID": "projects/project2.html#download",
+    "href": "projects/project2.html#download",
+    "title": "Project 2",
+    "section": "Download",
+    "text": "Download\nDOWNLOAD Project 2"
   }
 ]

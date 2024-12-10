@@ -1,0 +1,15 @@
+---
+title: Project 2
+---
+
+## Overview
+
+This project explores how alcohol consumption, exercise, and music type affect reaction times in a virtual population known as "the Islanders." We focus on these factors because alcohol can impair cognitive function, while exercise is known to enhance it. Additionally, different genres of music may influence mood and performance. Our goal is to understand how these elements interact and their overall impact on reaction times.
+
+## Methodology
+
+We used a 2-factorial design to evaluate the effects of three factors: alcohol (no alcohol vs. 150ml vodka), exercise (no exercise vs. 1km run), and music (heavy metal vs. classical), each at two levels. Participants aged 20-40 were randomly assigned to one of eight treatment combinations, with baseline reaction times measured using a ruler test. After a 15-minute wait for the alcohol to take effect, we recorded changes in reaction times across all treatment combinations.
+
+## Download
+
+DOWNLOAD [Project 2](/project%202.pdf)

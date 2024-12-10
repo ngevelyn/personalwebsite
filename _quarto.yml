@@ -2,13 +2,16 @@ project:
   type: website
 
 website:
-  title: "personalwebsite"
+  title: "Evelyn Yi Tsing Ng"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Projects.qmd
 
+  page-footer:
+    right: "© Copyright 2024 Evelyn Ng."
+    
 format:
   html:
     theme: cosmo
@@ -17,3 +20,5 @@ format:
 
 editor: visual
 
+execute: 
+  freeze: auto

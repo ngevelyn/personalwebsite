@@ -1,0 +1,15 @@
+---
+title: Project 1
+---
+
+## Overview
+
+This project is about understanding the factors that impact student performance. I analyzed data on study hours, past scores, extracurricular activities, and sleep patterns to see how they affect to academic success.
+
+## Methodology
+
+Used multiple linear regression to develop a predictive model that highlights the key variables affecting academic performance.
+
+## Download
+
+FOR DETAILED PROJECT CLICK [Project 1](/project%201.pdf)
