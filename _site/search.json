@@ -5,5 +5,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evelyn Ng",
+    "section": "",
+    "text": "I am a fourth year Statistics and Data science major in UCLA. I love using data to find insights and help myself make decisions. On this website, you’ll find my academic achievements, projects, and skills in data analysis and machine learning. Feel free to explore my journey in the exciting world of data.\nDOWNLOAD CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Evelyn Ng",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | California, USA Bachelor of Science in Statistics and Data Science | Sept 2023 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Evelyn Ng",
+    "section": "Experience",
+    "text": "Experience\nRedotPay | Intern | July 2024 - Sept 2024\nDash Map | Data Analyst | June 2023 - Aug 2023\nUniversity of Hong Kong | Research Intern | June 2022 - Aug 2022"
   }
 ]

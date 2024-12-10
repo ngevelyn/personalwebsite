@@ -1,6 +1,33 @@
 ---
-title: "personalwebsite"
----
+title: "Evelyn Ng"
+about:
+  template: trestles
+  image: photo.jpg
+  links:
+    - text: Email
+      url: "mailto:evelynngyitsing@g.ucla.edu"
+    - icon: github
+      text: Github
+      href: https://github.com/ngevelyn
 
-```{1+1}
-```
+toc : false
+---
+I am a fourth year Statistics and Data science major in UCLA. I love using data to find insights and help myself make decisions. On this website, you'll find my academic achievements, projects, and skills in data analysis and machine learning. Feel free to explore my journey in the exciting world of data. 
+
+DOWNLOAD [CV](/cv.pdf)
+
+## Education
+
+University of California, Los Angeles | California, USA
+Bachelor of Science in Statistics and Data Science 
+| Sept 2023 - June 2025
+
+## Experience
+
+RedotPay | Intern | July 2024 - Sept 2024
+
+Dash Map | Data Analyst | June 2023 - Aug 2023
+
+University of Hong Kong | Research Intern | June 2022 - Aug 2022
+
+
