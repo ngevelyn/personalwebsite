@@ -14,7 +14,7 @@ toc : false
 ---
 I am a fourth year Statistics and Data science major in UCLA. I love using data to find insights and help myself make decisions. On this website, you'll find my academic achievements, projects, and skills in data analysis and machine learning. Feel free to explore my journey in the exciting world of data. 
 
-DOWNLOAD [CV](/cv.pdf)
+DOWNLOAD [CV](/CV.pdf)
 
 ## Education
 
